@@ -1,0 +1,14 @@
+fastapi==0.111.0
+uvicorn==0.29.0
+sentence-transformers==2.6.1
+faiss-cpu==1.8.0
+PyPDF2==3.0.1
+python-docx==1.1.0
+textract==1.6.5
+openai==0.28.1
+pydantic==1.10.14
+python-multipart==0.0.9
+requests==2.31.0
+aiofiles==23.2.1
+tiktoken==0.5.1
+mistral-7b-instruct.gguf
